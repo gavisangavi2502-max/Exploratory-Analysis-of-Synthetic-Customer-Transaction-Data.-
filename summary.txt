@@ -1,0 +1,1 @@
+This analysis generated 500 synthetic customer transaction records and performed data inspection, descriptive statistics, and visualizations. Mean, median, and standard deviation were computed for each segment, revealing differences in purchase behavior. Histogram shows distribution spread; bar chart compares segment averages.

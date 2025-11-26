@@ -1,0 +1,1 @@
+Descriptive statistics grouped by CustomerSegment are included in the script output.
